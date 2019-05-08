@@ -1,0 +1,6 @@
+framework module Pods_ScootRenewedUITests {
+  umbrella header "Pods-ScootRenewedUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
